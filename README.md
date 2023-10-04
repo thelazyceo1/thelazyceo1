@@ -2,7 +2,7 @@
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning cryptoeconomics - backend developement 
 - 💞️ I’m looking to collaborate on token projects
-- 📫 How to reach me sergek@duniapay.net
+- 📫 How to reach me sergek@dunia.africa
 
 <!---
 thelazyceo1/thelazyceo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
